@@ -13,15 +13,14 @@ Desenvolvedor apaixonado por tecnologia e soluções inovadoras
 🛠 Habilidades Técnicas
 javascript
 const skills = {
-  linguagens: ["JavaScript", "Python", "Java", "PHP"],
-  frontend: ["React", "Vue", "HTML5", "CSS3", "SASS"],
-  backend: ["Node.js", "Express", "Django", "Spring Boot"],
-  databases: ["MySQL", "MongoDB", "PostgreSQL"],
-  devOps: ["Docker", "Git", "GitHub Actions"],
-  outras: ["Figma", "Scrum", "Testes Automatizados"]
+  linguagens: ["JavaScript"],
+  frontend: ["HTML5", "CSS3"],
 };
+
 📈 Estatísticas do GitHub
-Estatísticas do GitHub
+
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrobot5&show_icons=true&theme=tokyonight)
 
 📫 Como me encontrar
 LinkedIn: em breve
@@ -39,7 +38,11 @@ def coding_philosophy():
             share_with_community()
 ⭐ "Comprometido em transformar linhas de código em soluções que fazem a diferença."
 
-Tecnologias mais usadas
+## 🎮 Jogo da Velha (Clique nos números!)
+| [1️](https://github.com/Gabrobot5?tab=repositories) | [2️](https://github.com/Gabrobot5) | [3️](https://github.com) |
+|---|---|---|
+| [4️](#) | [5️](#) | [6️](#) |
+| [7️](#) | [8️](#) | [9️](#) |
 
 <!--
 **Gabrobot5/Gabrobot5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
