@@ -38,6 +38,8 @@ def coding_philosophy():
             share_with_community()
 ⭐ "Comprometido em transformar linhas de código em soluções que fazem a diferença."
 
+![Snake Game](https://github.com/Gabrobot5/Gabrobot5/blob/output/snake-game.gif)
+<!--
 ## 🎮 Jogo da Velha (Clique nos números!)
 | [1️](https://github.com/Gabrobot5?tab=repositories) | [2️](https://github.com/Gabrobot5) | [3️](https://github.com) |
 |---|---|---|
