@@ -23,21 +23,15 @@ const skills = {
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrobot5&show_icons=true&theme=tokyonight)
 
 📫 Como me encontrar
+
 LinkedIn: em breve
 
 Portfólio: em breve
 
 E-mail: gabz343ind@gmail.com@email.com
 
-💡 Filosofia de Código
-python
-def coding_philosophy():
-    while True:
-        code = learn()
-        if code.is_better_than_before():
-            share_with_community()
 ⭐ "Comprometido em transformar linhas de código em soluções que fazem a diferença."
-
+<!--
 ![Snake Game](https://github.com/Gabrobot5/Gabrobot5/blob/output/snake-game.gif)
 <!--
 ## 🎮 Jogo da Velha (Clique nos números!)
