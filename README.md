@@ -9,7 +9,7 @@ Estudante de **Ciência da Computação** na UCB, apaixonado por programação e
 - 🎓 Cursando **Ciência da Computação** — UCB (1º semestre)
 - 💻 Estudando **C** com foco em lógica, algoritmos e estruturas de dados
 - 🌐 Desenvolvendo projetos web com **Angular 19** e **TypeScript**
-- 🎮 Interesse em **desenvolvimento de jogos** — explorando Unity e Ren'Py
+- 🎮 Interesse em **desenvolvimento de jogos** — explorando Unity
 - 📍 Brasília, DF
 
 ---
