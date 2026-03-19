@@ -1,56 +1,53 @@
-👋 Olá, eu sou Gabriel!
-Desenvolvedor apaixonado por tecnologia e soluções inovadoras
+# Olá, eu sou Gabriel Duarte 👋
 
-🚀 Sobre mim
-💻 Desenvolvedor [Front-end]
+Estudante de **Ciência da Computação** na UCB, apaixonado por programação e desenvolvimento de jogos. Comecei minha jornada na área de TI como jovem aprendiz e hoje estou construindo minha base técnica com foco em C, desenvolvimento web e criação de games.
 
-📚 Aprendendo constantemente e compartilhando conhecimento
+---
 
-🎯 Foco em [desenvolvimento web, mobile.]
+## 🚀 Sobre mim
 
-🌱 Atualmente explorando [IA/]
+- 🎓 Cursando **Ciência da Computação** — UCB (1º semestre)
+- 💻 Estudando **C** com foco em lógica, algoritmos e estruturas de dados
+- 🌐 Desenvolvendo projetos web com **Angular 19** e **TypeScript**
+- 🎮 Interesse em **desenvolvimento de jogos** — explorando Unity e Ren'Py
+- 📍 Brasília, DF
 
-🛠 Habilidades Técnicas
-javascript
-const skills = {
-  linguagens: ["JavaScript"],
-  frontend: ["HTML5", "CSS3"],
-};
+---
 
-📈 Estatísticas do GitHub
+## 🛠️ Habilidades Técnicas
 
+```c
+// Em constante aprendizado...
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabrobot5&show_icons=true&theme=tokyonight)
+linguagens[]  = { "C", "TypeScript", "JavaScript", "Python (iniciando)" };
+frontend[]    = { "Angular 19", "HTML5", "CSS3", "Bootstrap 5" };
+ferramentas[] = { "Git", "VS Code", "JSON Server", "REST APIs" };
+estudando[]   = { "Estruturas de dados", "Algoritmos", "Unity" };
+```
 
-📫 Como me encontrar
+---
 
-LinkedIn: em breve
+## 📂 Projetos
 
-Portfólio: em breve
+### 🎮 [NeonPlay](https://github.com/Gabrobot5/neonplay)
+Loja de jogos online desenvolvida em Angular 19 com consumo de API REST via JSON Server.
+Inclui listagem de produtos, cadastro, edição e autenticação de usuário.
 
-E-mail: gabz343ind@gmail.com@email.com
+`Angular 19` `TypeScript` `Bootstrap 5` `JSON Server` `REST API`
 
-⭐ "Comprometido em transformar linhas de código em soluções que fazem a diferença."
-<!--
-![Snake Game](https://github.com/Gabrobot5/Gabrobot5/blob/output/snake-game.gif)
-<!--
-## 🎮 Jogo da Velha (Clique nos números!)
-| [1️](https://github.com/Gabrobot5?tab=repositories) | [2️](https://github.com/Gabrobot5) | [3️](https://github.com) |
-|---|---|---|
-| [4️](#) | [5️](#) | [6️](#) |
-| [7️](#) | [8️](#) | [9️](#) |
+---
 
-<!--
-**Gabrobot5/Gabrobot5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📈 GitHub Stats
 
-Here are some ideas to get you started:
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrobot5&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrobot5&layout=compact&theme=tokyonight&hide_border=true)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📫 Contato
+
+[![Email](https://img.shields.io/badge/Email-gabz343ind@gmail.com-blue?style=flat&logo=gmail)](mailto:gabz343ind@gmail.com)
+
+---
+
+> *"Comecei do zero e cada linha de código é um passo a mais."*
